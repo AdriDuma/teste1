@@ -1,10 +1,10 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
+    --botao-azul: #00BF63;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #06af5d;
 }
 
 body {
@@ -152,4 +152,9 @@ body {
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
+}
+
+.rodape__logo {
+    width: 100px;
+    height: 100px;
 }
