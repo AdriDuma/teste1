@@ -57,10 +57,11 @@ body {
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
+    text-align: center;
 }
 
 .container__imagem {
-    margin-top: -100px; /*1em 0 2em 0;*/
+    text-align: center;/*1em 0 2em 0;*/
 }
 
 .container__caixa {
