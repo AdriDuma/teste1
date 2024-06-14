@@ -61,12 +61,10 @@ body {
 }
 
 .container__imagem {
-    text-align: center;/*1em 0 2em 0;*/
+text-align: center;
 }
 
-.container__caixa {
-    margin: 0 6em;
-}
+
 
 .secundario__imagem {
     width: 80%;
